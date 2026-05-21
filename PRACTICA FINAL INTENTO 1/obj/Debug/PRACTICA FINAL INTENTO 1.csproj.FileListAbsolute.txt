@@ -1,0 +1,13 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\bin\Debug\PRACTICA FINAL INTENTO 1.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\bin\Debug\PRACTICA FINAL INTENTO 1.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\bin\Debug\PRACTICA FINAL INTENTO 1.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA FINAL INTENTO 1.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA_FINAL_INTENTO_1.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA_FINAL_INTENTO_1.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA FINAL INTENTO 1.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA FINAL INTENTO 1.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA FINAL INTENTO 1.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA FINAL INTENTO 1.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\bin\Debug\System.IO.Ports.dll
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\bin\Debug\System.IO.Ports.xml
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\PRACTICA FINAL INTENTO 1\obj\Debug\PRACTICA.8C57F9C3.Up2Date

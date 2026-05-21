@@ -1,0 +1,13 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3 INTENTO 3.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3_INTENTO_3.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3_INTENTO_3.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3 INTENTO 3.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3 INTENTO 3.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\bin\Debug\P3 INTENTO 3.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\bin\Debug\P3 INTENTO 3.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\bin\Debug\P3 INTENTO 3.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3 INTENTO 3.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3 INTENTO 3.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\bin\Debug\System.IO.Ports.dll
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\bin\Debug\System.IO.Ports.xml
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\P3 INTENTO 3\obj\Debug\P3 INTEN.9CC9FC30.Up2Date
